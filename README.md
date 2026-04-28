@@ -5,7 +5,6 @@ I’m a full-stack engineer. I like building useful products, not just pretty de
 Most of my work is around web apps, backend APIs, automation, and tooling. I also spend time in Web3 and security-heavy projects when the problem is interesting.
 
 ## A few projects
-- [openapi-change-guard](https://github.com/0xrameshh/openapi-change-guard) - CLI to catch breaking API changes between OpenAPI specs
 - [aa-userop-studio](https://github.com/0xrameshh/aa-userop-studio) - simulator for account abstraction UserOps
 - [intent-route-lab](https://github.com/0xrameshh/intent-route-lab) - cross-chain route scoring and simulation
 - [gasless-checkout-studio](https://github.com/0xrameshh/gasless-checkout-studio) - paymaster decision simulator for gasless checkout flows
