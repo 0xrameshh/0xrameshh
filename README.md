@@ -1,17 +1,25 @@
 # Ramesh
 
-I build practical software and ship working products.
+Full-stack engineer focused on building practical software that ships.
 
-## Work I enjoy
-- Full-stack web apps
-- Backend APIs and integrations
-- AI-assisted product workflows
-- Developer tooling and systems work
+I work across product engineering, backend systems, AI-assisted workflows, and developer tooling.
+
+## Current Focus
+- Building and shipping full-stack web products
+- Designing backend APIs and integration-heavy systems
+- Turning AI workflows into usable product features
+- Improving reliability and maintainability in existing codebases
+
+## Selected Projects
+- [aa-userop-studio](https://github.com/0xrameshh/aa-userop-studio) - account abstraction UserOperation simulator
+- [intent-route-lab](https://github.com/0xrameshh/intent-route-lab) - cross-chain route scoring and simulation toolkit
+- [gasless-checkout-studio](https://github.com/0xrameshh/gasless-checkout-studio) - paymaster decision simulator for gasless checkout flows
+- [evm-gas-profiler](https://github.com/0xrameshh/evm-gas-profiler) - CLI to profile gas usage from transaction calldata
 
 ## Stack
 TypeScript, JavaScript, React, Next.js, Node.js, Python, SQL/Postgres.
 
-## How I work
-- Own problems end to end
-- Keep systems simple and maintainable
-- Move fast without skipping fundamentals
+## Working Style
+- Owns problems end to end
+- Prefers simple, maintainable systems
+- Moves fast without skipping engineering fundamentals
