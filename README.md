@@ -11,4 +11,4 @@ Some current repos:
 - [polyswipe](https://github.com/0xrameshh/polyswipe)
 - [scout-rs](https://github.com/0xrameshh/scout-rs)
 - [solana-stablecoin-standard](https://github.com/0xrameshh/solana-stablecoin-standard)
-- [assy](https://github.com/0xrameshh/assy)
+- [sassy](https://github.com/0xrameshh/sassy)
