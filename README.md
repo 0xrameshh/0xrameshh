@@ -1,14 +1,15 @@
 # Hi, I'm Ramesh
 
-I build web apps, tools, and small experiments.
+Full-stack & AI application engineer based in Hyderabad. I build LangGraph agents, production APIs, and systems tooling.
 
-Most of my work is in TypeScript, React, Node.js, Python, and Rust. I use this account for public code and projects I want to keep around.
+**Portfolio:** [0xrameshh.github.io](https://0xrameshh.github.io)
 
-Some current repos:
+## Featured projects
 
-- [coworker](https://github.com/0xrameshh/coworker)
-- [shade](https://github.com/0xrameshh/shade)
-- [polyswipe](https://github.com/0xrameshh/polyswipe)
-- [scout-rs](https://github.com/0xrameshh/scout-rs)
-- [solana-stablecoin-standard](https://github.com/0xrameshh/solana-stablecoin-standard)
-- [sassy](https://github.com/0xrameshh/sassy)
+- [agentflow](https://github.com/0xrameshh/agentflow) — LangGraph knowledge copilot (RAG, FastAPI, Next.js)
+- [sassy](https://github.com/0xrameshh/sassy) — StrictlyAI multi-tenant AI chatbot SaaS
+- [velum](https://github.com/0xrameshh/velum) — Event-sourced workflow engine in Go
+- [coworker](https://github.com/0xrameshh/coworker) — Electron AI workspace (React + Rust)
+- [shade](https://github.com/0xrameshh/shade) — Privacy-first Solana wallet
+- [solana-stablecoin-standard](https://github.com/0xrameshh/solana-stablecoin-standard) — Anchor stablecoin framework + TypeScript SDK
+- [polyswipe](https://github.com/0xrameshh/polyswipe) — React Native prediction-market swipe UI
