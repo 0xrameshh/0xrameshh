@@ -7,7 +7,6 @@ Full-stack & AI application engineer based in Hyderabad. I build LangGraph agent
 ## Featured projects
 
 - [agentflow](https://github.com/0xrameshh/agentflow) — LangGraph knowledge copilot (RAG, FastAPI, Next.js)
-- [sassy](https://github.com/0xrameshh/sassy) — StrictlyAI multi-tenant AI chatbot SaaS
 - [velum](https://github.com/0xrameshh/velum) — Event-sourced workflow engine in Go
 - [coworker](https://github.com/0xrameshh/coworker) — Electron AI workspace (React + Rust)
 - [shade](https://github.com/0xrameshh/shade) — Privacy-first Solana wallet
